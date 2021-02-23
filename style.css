@@ -1,0 +1,101 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    background-color: rgb(27, 122, 63);
+}
+
+.logo {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.cart {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 1000px;
+}
+
+.login {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.item {
+    
+    color:black;
+    background-color: rgb(144, 221, 80);
+    padding: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 40px;
+    margin-right: 50px;
+    margin-left: 250px;
+    border-radius: 12px;
+    border: 5px solid rgb(66, 196, 66);
+    display: -webkit-inline-box;
+    transition: 0.3s;
+}
+.item:hover {
+    background-color: rgb(107, 235, 102);
+}
+
+.garden {
+    color:black;
+    background-color: rgb(144, 221, 80);
+    padding: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 40px;
+    margin-right: 50px;
+    border-radius: 12px;
+    border: 5px solid rgb(66, 196, 66);
+    display: -webkit-inline-box;
+    transition: 0.3s;
+}
+.garden:hover {
+    background-color: rgb(107, 235, 102);
+}
+
+.payment {
+    color:black;
+    background-color: rgb(144, 221, 80);
+    padding: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 40px;
+    margin-right: 50px;
+    border-radius: 12px;
+    border: 5px solid rgb(66, 196, 66);
+    display: -webkit-inline-box;
+    transition: 0.3s;
+}
+.payment:hover {
+    background-color: rgb(107, 235, 102);
+}
+
+.order {
+    color:black;
+    background-color: rgb(144, 221, 80);
+    padding: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 40px;
+    border-radius: 12px;
+    border: 5px solid rgb(66, 196, 66);
+    display: -webkit-inline-box;
+    transition: 0.3s;
+}
+.order:hover {
+    background-color: rgb(107, 235, 102);
+}
